@@ -1,4 +1,4 @@
 # akhil-demo
 this is my first github repository
 <br>
-author - Akhil sakhareliya
+author - Akhil sakhareliya(patel)
